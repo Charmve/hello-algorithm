@@ -15,4 +15,4 @@
 
 2、同时我把自己写的所有内容整理成了一本电子书。下方扫码回复<font color="red"><b>【999】</b></font> 下载。
 
-[![图片展示失败，点击查看](https://www.geekxh.com/code.png)](https://www.geekxh.com/code.png)
+[![图片展示失败，点击查看](https://image.jiqizhixin.com/uploads/editor/d8595d93-e8c9-4abf-91f4-105384736912/%E5%9B%BE%E7%89%8712.jpg)](https://image.jiqizhixin.com/uploads/editor/d8595d93-e8c9-4abf-91f4-105384736912/%E5%9B%BE%E7%89%8712.jpg)
