@@ -8,9 +8,7 @@
 
 提取码：请下方扫码回复【book】进行获取
 
-<div align="center">
-    <a href="https://www.geekxh.com/code.png" style="box-shadow: rgb(210, 210, 210) 0em 0em 0.5em 0px; font-size: 17px;"><img src="https://www.geekxh.com/code.png" width="250px"></a>
-</div>
+<div align=center><img src="https://image.jiqizhixin.com/uploads/editor/d8595d93-e8c9-4abf-91f4-105384736912/%E5%9B%BE%E7%89%8712.jpg" height="330" width="330"></div>
 
 ![](./book_1000.png)
 
