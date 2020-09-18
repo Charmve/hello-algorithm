@@ -41,10 +41,10 @@ English version repo and Gitbook is on [english branch](https://github.com/geekx
 3、如果你还想加入我们的<b>万人刷题群</b>，和我们一起交流，遇见更优秀的人。
 
 <div align="center">
-    <a href="https://image.jiqizhixin.com/uploads/editor/d8595d93-e8c9-4abf-91f4-105384736912/%E5%9B%BE%E7%89%8712.jpg" style="box-shadow: rgb(210, 210, 210) 0em 0em 0.5em 0px; font-size: 17px;"><img src="https://www.geekxh.com/code.png" width="200px"></a>
+    <a href="https://image.jiqizhixin.com/uploads/editor/d8595d93-e8c9-4abf-91f4-105384736912/%E5%9B%BE%E7%89%8712.jpg" style="box-shadow: rgb(210, 210, 210) 0em 0em 0.5em 0px; font-size: 17px;"><img src="https://image.jiqizhixin.com/uploads/editor/d8595d93-e8c9-4abf-91f4-105384736912/%E5%9B%BE%E7%89%8712.jpg" width="200px"></a>
 </div>
 
-4、当然，也许你就想加我的私人微信: Yida_Zhang2 (请备注"github",否则加不了-_-)
+4、当然，也许你就想加我的私人微信: <b>Yida_Zhang2</b> (请备注"github",否则加不了-_-)
 
 注：<b>资料不要贪多，找到适合自己的才重要。</b> 
 
@@ -263,4 +263,4 @@ English version repo and Gitbook is on [english branch](https://github.com/geekx
 
 本项目除部分引用开源技术文档的内容外，大部分为本人原创！欢迎任何以学习为目的的传播，但未授权任何平台进行转载！
 
-* Cite By <i>XiaoHao</i>
+*Cite By <i>XiaoHao</i>
