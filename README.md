@@ -15,7 +15,7 @@ English version repo and Gitbook is on [english branch](https://github.com/geekx
 </div>
 
 <p align="center">
-  <a href="https://charmve.blog.csdn.net/"><img src="https://www.geekxh.com/blog_blue.svg" alt="css"></a>
+  <a href="https://charmve.blog.csdn.net/"><img src="https://img.shields.io/badge/blog-Charmve-blue" alt="css"></a>
   <a href="https://charmve.blog.csdn.net/"><img src="https://www.geekxh.com/trending.svg?label=html" alt="html"></a>
   <a href="https://github.com/haizlin/fe-interview/stargazers"><img src="https://img.shields.io/github/stars/geekxh/hello-algorithm.svg" alt="Statr"></a>
 </p>
