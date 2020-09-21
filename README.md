@@ -4,8 +4,7 @@
   / ___|| |__    __ _  _ __  _ __ ___ __   __ ___ 
  | |    | '_ \  / _` || '__|| '_ ` _ \\ \ / // _ \
  | |___ | | | || (_| || |   | | | | | |\ V /|  __/
-  \____||_| |_| \__,_||_|   |_| |_| |_| \_/  \___|
-                                                  
+  \____||_| |_| \__,_||_|   |_| |_| |_| \_/  \___|                                             
     </pre>
 </div>
 
@@ -65,9 +64,9 @@ English version repo and Gitbook is on [english branch](https://github.com/geekx
 
 | 书籍名 | 介绍 |
 |------|------|
-| 算法4 | 主要是基础知识，对排序，查找，图，字符串讲解的图非常经典。适合初学者。 |
-| 剑指offer | 在有一定刷题经验后进行自我学习。 |
-| 算法导论 | 很有名很经典，但更多被用来当作资料查阅，不建议初学者通读。 |
+| <a href="https://github.com/Charmve/PaperWeeklyAI/tree/master/00_GuideBooksPDF(English%2BChinese)/02_Programing%26Algorithm%E7%BC%96%E7%A8%8B%E4%B8%8E%E7%AE%97%E6%B3%95"><b>算法4</b></a> | 主要是基础知识，对排序，查找，图，字符串讲解的图非常经典。适合初学者。 |
+| <a href="https://github.com/Charmve/CodingInterviewChinese2"><b>剑指offer</a></a> | 在有一定刷题经验后进行自我学习。 |
+| <a href="https://github.com/Charmve/PaperWeeklyAI/tree/master/00_GuideBooksPDF(English%2BChinese)/02_Programing%26Algorithm%E7%BC%96%E7%A8%8B%E4%B8%8E%E7%AE%97%E6%B3%95"><b>算法导论</b></a> | 很有名很经典，但更多被用来当作资料查阅，不建议初学者通读。 |
 | 算法引论 | 从设计算法的角度思考问题，难度颇大，不适合初学者。 |
 
 ### 内容展示
