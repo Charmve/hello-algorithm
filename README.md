@@ -1,3 +1,14 @@
+<div id="outputFigDisplay" class="fig">
+    <pre id="taag_output_text" style="float:left;" class="flag" contenteditable="true">
+   ____  _                                        
+  / ___|| |__    __ _  _ __  _ __ ___ __   __ ___ 
+ | |    | '_ \  / _` || '__|| '_ ` _ \\ \ / // _ \
+ | |___ | | | || (_| || |   | | | | | |\ V /|  __/
+  \____||_| |_| \__,_||_|   |_| |_| |_| \_/  \___|
+                                                  
+    </pre>
+</div>
+
 ## 简介
 
 English version repo and Gitbook is on [english branch](https://github.com/geekxh/hello-algorithm/tree/english)
