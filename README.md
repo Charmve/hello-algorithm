@@ -10,7 +10,7 @@
 
 ## 简介
 
-English version repo and Gitbook is on [english branch](https://github.com/geekxh/hello-algorithm/tree/english)
+English version repo and Gitbook is on [english branch](https://github.com/Charmve/hello-algorithm/tree/english)
 
 > CharmveAlgo是我在小浩算法基础上整理的一部图解算法题典！<b> 目前共完成 140+ 道高频面试算法题目，总计 40w 字，全部采用漫画图解的方式，简单易懂！</b> 
 面向 <font color="red"><b>算法小白</b></font> 和 <font color="red"><b>初中阶读者</b></font>。所有代码均在 leetcode 上测试运行，可以直接右上角搜索题号。编程语言包括C++、Python、Java、Go。
