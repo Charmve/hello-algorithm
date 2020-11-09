@@ -21,7 +21,7 @@ English version repo and Gitbook is on [english branch](https://github.com/Charm
     <h5 style="background: azure; font-size: .85em;color: #000000;"> 扫码回复【进群】可加入我们的万人刷题学习群；回复【999】可直接下载该项目全部资源</h6>
     <h5 style="background: azure; font-size: .85em;color: #000000;"> 包括：一千本开源电子书、各厂面经、百张思维导图、我写的图解算法题典 </h6>
     <h5 style="background: azure; font-size: .85em;color: #000000;"> 如果你愿意支持我，可以给项目点个star，我会很感激！</h6>
-    <a href="https://github.com/Charmve/"><img src="https://image.jiqizhixin.com/uploads/editor/d8595d93-e8c9-4abf-91f4-105384736912/%E5%9B%BE%E7%89%8712.jpg" height="330" width="330"></a>
+    <a href="https://github.com/Charmve/"><img src="https://github.com/Charmve/PaperWeeklyAI/blob/master/MaiweiAI-com.png?raw=true" height="330" width="330"></a>
 </div>
 
 <p align="center">
