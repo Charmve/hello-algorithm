@@ -274,4 +274,39 @@ English version repo and Gitbook is on [english branch](https://github.com/Charm
 
 本项目除部分引用开源技术文档的内容外，大部分为本人原创！欢迎任何以学习为目的的传播，但未授权任何平台进行转载！
 
+## Recommend
+
+另外我在整理一个针对Google, FaceBook, Amazon, LinkedIn, MicroSoft求职的高频100题，按照公司类别和题型两种方式分类，有兴趣或者需要的小伙伴，欢迎来fork！
+
+<strong> LeetCode4FLAG </strong>
+
+🔥 🔥 High frequent interview LeetCode test for FaceBook，Linkedin，Amazon，Google. More importantly, the problems' solutions are provided. Offer, offer, offer!
+
+<p align="right">
+	<a class="ai-header-badge" target="_blank" href="https://github.com/madewithml/basics">
+	     <img class="ai-header-badge-img" src="https://img.shields.io/github/stars/madewithml/basics.svg?style=social&label=Star">
+	</a>&nbsp;
+	<a class="ai-header-badge" target="_blank" href="https://linkedin.com/in/wei-zhang-647b29133/">
+	      <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+	</a>&nbsp;
+	<a class="ai-header-badge" target="_blank" href="https://www.kaggle.com/yidazhang07">
+	       <img class="ai-header-badge-img" src="https://img.shields.io/badge/style--5eba00.svg?label=Kaggle&logo=kaggle&style=social">
+	</a>&nbsp;
+	<a class="ai-header-badge" target="_blank" href="https://www.zhihu.com/people/MaiweiE-com/posts">
+	       <img class="ai-header-badge-img" src="https://img.shields.io/badge/style--5eba00.svg?label=Zhihu&logo=zhihu&style=social">
+	</a>&nbsp;
+</p>
+
+<div align="center">
+  <img align="center" src="https://github.com/Charmve/LeetCode4FLAG/raw/main/FLAG.jpg">
+  <br><br>
+  <p align="center">
+	  <img src="https://badgen.net/badge/FLAG/2.1/orange" alt="Version No.">
+  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/master/README.md"><img src="https://img.shields.io/badge/language-English-green" alt="English Version"></a>
+  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/master/ReadmeChinese.md"><img src="https://img.shields.io/badge/language-Chinese-red" alt="Chinese Version"></a>
+  </p>
+</div>
+
+
+
 *Cite By 小浩<i>XiaoHao</i>
