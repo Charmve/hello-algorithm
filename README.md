@@ -274,6 +274,8 @@ English version repo and Gitbook is on [english branch](https://github.com/Charm
 
 本项目除部分引用开源技术文档的内容外，大部分为本人原创！欢迎任何以学习为目的的传播，但未授权任何平台进行转载！
 
+*Cite By 小浩<i>XiaoHao</i>
+
 ****
 ## Recommend
 
@@ -309,5 +311,3 @@ English version repo and Gitbook is on [english branch](https://github.com/Charm
 </div>
 
 ****
-
-*Cite By 小浩<i>XiaoHao</i>
