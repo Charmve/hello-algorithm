@@ -11,6 +11,7 @@
 <div align=center><img src="https://github.com/Charmve/PaperWeeklyAI/blob/master/MaiweiAI-com.png?raw=true" height="330" width="330"></div>
 
 <div align=center size = 3><b>△微信扫一扫，关注我</b></div>
+<br>
 
 ![](./book_1000.png)
 
