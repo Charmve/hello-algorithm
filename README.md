@@ -21,11 +21,11 @@ English version repo and Gitbook is on [english branch](https://github.com/Charm
     <h5 style="background: azure; font-size: .85em;color: #000000;"> 扫码回复【进群】可加入我们的万人刷题学习群；回复【999】可直接下载该项目全部资源</h6>
     <h5 style="background: azure; font-size: .85em;color: #000000;"> 包括：一千本开源电子书、各厂面经、百张思维导图、我写的图解算法题典 </h6>
     <h5 style="background: azure; font-size: .85em;color: #000000;"> 如果你愿意支持我，可以给项目点个star，我会很感激！</h6>
-    <a href="https://github.com/Charmve/"><img src="https://github.com/Charmve/PaperWeeklyAI/blob/master/MaiweiAI-com.png?raw=true" height="330" width="330"></a>
+    <img src="https://img-blog.csdnimg.cn/20200512154323626.png" height="330" width="330">
 </div>
 
 <p align="center">
-  <a href="https://charmve.blog.csdn.net/"><img src="https://img.shields.io/badge/blog-Charmve-blue" alt="css"></a>
+  <a href="https://blog.csdn.net/charmve/category_9622929.html"><img src="https://img.shields.io/badge/blog-Charmve-blue" alt="css"></a>
   <a href="https://charmve.blog.csdn.net/"><img src="https://www.geekxh.com/trending.svg?label=html" alt="html"></a>
   <a href="https://github.com/haizlin/fe-interview/stargazers"><img src="https://img.shields.io/github/stars/geekxh/hello-algorithm.svg" alt="Statr"></a>
 </p>
