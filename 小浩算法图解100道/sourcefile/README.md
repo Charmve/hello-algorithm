@@ -6,6 +6,6 @@
 
 ---
 
-#### 该目录源文件将不再更新，新的内容请移驾到我的个人网站进行学习或者下载
+#### 该目录源文件将不再更新，新的内容请移驾到新的repo进行学习或者下载
 
-[访问网站学习](https://www.geekxh.com)
+[访问学习](https://github.com/Charmve/LeetCode4FLAG)
